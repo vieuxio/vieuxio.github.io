@@ -2,7 +2,7 @@
 # Vieux
 ###### The framework-agnostic, forward-thinking UI architecture
 
-Join us on [![Vieux Slack](http://slack.vieux.io/badge.svg)](http://slack.vieux.io) for anything about Vieux.
+Join us on [![Vieux Slack](http://slack.vieux.io/badge.svg?v=2)](http://slack.vieux.io) for anything about Vieux.
 
 Check out example implementations with various frameworks in [our other repositories](https://github.com/vieuxio).
 
